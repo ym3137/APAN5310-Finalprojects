@@ -1,6 +1,6 @@
 # APAN5310-Finalprojects
 # ABC Foodmart Database System
-**APAN 5310 – Group 2 | Columbia University | Spring 2025**
+**APAN 5310 – Group 2 | Columbia University | Spring 2026**
 
 A fully normalized relational database system designed for ABC Foodmart, a five-store neighborhood grocery chain in New York City. This repository contains the complete database schema, ETL script, and ERD definition.
 
